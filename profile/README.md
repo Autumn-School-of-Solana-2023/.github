@@ -47,7 +47,7 @@ Introduction to Anchor development framework and how it helps developers and con
 - We’d love to have some interaction with you during the lessons, don't be afraid to ask any questions you may have!
 - Our lecturers here on Discord will be at your disposal during and outside the lessons.
 
-# 🎓 Rules for getting a certification
+# 🎓 Rules for getting a certification:
 As validation of your acquired skills in the Rust language and Solana blockchain, you will receive our Ackee Blockchain certificate, which will serve as future proof of your fundamental knowledge.
 
 ## Before you rule the world of blockchain and smart contracts, keep in mind the following rules:
