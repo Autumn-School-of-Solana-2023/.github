@@ -46,15 +46,17 @@ Introduction to Anchor development framework and how it helps developers and con
   - Gaming is fun! Our guest lecturer Jonas Hahn from Solana Foundation will show you how to implement a simple game on Solana using the Unity SDK.
 
 # 📚 Our learning material:
-- TBA
+- We created **_Solana Handbook_** to provide study material for School of Solana students. It should serve as an entry point for new Solana developers or blockchain enthusiasts wishing to learn about Solana.
 
+  ### Read the [Solana Handbook](https://ackeeblockchain.com)
 # 👩‍💻 What to prepare:
 - Git
 - Your favorite IDE (VS Code, IntelliJ, Vim, Sublime, …)
 - The desire to learn new things
 
 # 🔬 How to participate:
-- TBA
+- You can **participate** here:
+  ### [School of Solana](https://ackeeblockchain.com/school-of-solana)
 
 # 🤝 Rules:
 - We’d love to have some interaction with you during the lessons. Don't be afraid to ask any questions you may have!
