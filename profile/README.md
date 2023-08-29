@@ -48,7 +48,7 @@ Introduction to Anchor development framework and how it helps developers and con
 # 📚 Our learning material:
 - We created **_Solana Handbook_** to provide study material for School of Solana students. It should serve as an entry point for new Solana developers or blockchain enthusiasts wishing to learn about Solana.
 
-  ### Read the [Solana Handbook](https://ackeeblockchain.com)
+  ### Read the [Solana Handbook](https://ackeeblockchain.com/solana-handbook.pdf)
 # 👩‍💻 What to prepare:
 - Git
 - Your favorite IDE (VS Code, IntelliJ, Vim, Sublime, …)
