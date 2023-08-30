@@ -8,7 +8,8 @@
 
 developed by [Ackee Blockchain](https://ackeeblockchain.com)
 
-</div>
+-----
+
 
 # 💜 What's this all about?
 Do you want to learn **_Rust_** and be able to code, debug, and review **_Solana_** programs? 
@@ -31,22 +32,35 @@ enroll in our **_Autumn School of Solana_** and get certified with **_Ackee Bloc
 |🎓**Final Lecture aka Graduation**|In this final lecture we will wrap up the School of Solana and showcase some of the best final projects.|-|
 |🍖**Bonus: SPL Token Program & Gaming**|💰**SPL Tokens**<br /> - The tokens are everywhere! In this lecture, we will show how to implement a simple program dealing with arbitrary SPL tokens.<br />🕹️**Gaming**<br /> - Gaming is fun! Our guest lecturer Jonas Hahn from Solana Foundation will show you how to implement a simple game on Solana using the Unity SDK. |-|
 
+</div>
+
+-----
+
 # 📚 Our learning material:
 - We created the **_Solana Handbook_** to provide study material for School of Solana students. It should serve as an entry point for new Solana developers or blockchain enthusiasts wishing to learn about Solana.
 
   ### Read the [Solana Handbook](https://ackeeblockchain.com/solana-handbook.pdf)
+
+-----
+
 # 👩‍💻 What to prepare:
 - Git
 - Your favorite IDE (VS Code, IntelliJ, Vim, Sublime, …)
 - The desire to learn new things
 
+-----
+
 # 🔬 How to participate:
 - You can **participate** here:
   ### [School of Solana](https://ackeeblockchain.com/school-of-solana)
 
+-----
+
 # 🤝 Rules:
 - We’d love to have some interaction with you during the lessons. Don't be afraid to ask any questions you may have!
 - Our lecturers on Discord will be at your disposal during and outside the lessons.
+
+-----
 
 # 🎓 Rules for getting a certification:
 As validation of your acquired skills in the Rust language and Solana blockchain, you will receive our Ackee Blockchain certificate, which will serve as future proof of your fundamental knowledge.
@@ -54,3 +68,9 @@ As validation of your acquired skills in the Rust language and Solana blockchain
 ## Before you rule the world of blockchain and smart contracts, keep in mind the following rules:
 - Maximum absence: 2 Lessons/Tasks
 - Output: Development of a functional smart contract.
+
+-----
+
+# What's next?
+If you're interested in our company, don't hesitate to visit our website, [Ackee Blockchain](https://ackeeblockchain.com), or reach out to us on [Discord](https://discord.gg/x7qXXnGCsa). You can also follow us on [X(Twitter)](https://twitter.com/ackeeblockchain?lang=en) for updates.\
+For the most recent [Solana News](https://solana.com/news) or [Solana Twitter](https://twitter.com/solana).
