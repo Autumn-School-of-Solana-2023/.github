@@ -23,7 +23,7 @@ enroll in our **_Autumn School of Solana_** and get certified with **_Ackee Bloc
 |Lecture|Description|Task|
 |----------------------|-------------------------------|:------------------------|
 |👋**Introduction to Solana and Blockchain**|Proof of History, Sealevel, and other Solana fundamentals. We will also go through a proper local development setup to get you started in this course.|Task 1|
-|🧡**Introduction to Rus**|A gentle introduction to Rust programming language. Principles behind Rust and how they tie to Solana program development.|Task 2|
+|🧡**Introduction to Rust**|A gentle introduction to Rust programming language. Principles behind Rust and how they tie to Solana program development.|Task 2|
 |👩‍💻**Solana programming model I**|Let's start developing on-chain Solana programs using the Anchor framework. You'll understand how programs store data and state on the Solana blockchain. We will go through all the important core concepts of Solana development:<br /> - Accounts structure<br /> - Program Derived Addresses<br /> - Handling errors<br /> - Cross-Program Invocations<br />|Task 3|
 |👩‍💻**Solana programming model II**|-|Task 4|
 |🐛**Best development practices and debugging**| Develop like a pro! In this lecture, we will show you some best development practices and give you tips and tricks to debug your programs so you can get up to speed quickly. |-|
